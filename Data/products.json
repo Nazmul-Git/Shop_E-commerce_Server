@@ -62,6 +62,70 @@
       "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "imgUrl": "https://s3-alpha-sig.figma.com/img/024e/de1e/13701879ed1c9befc9a6af6cb3d8613f?Expires=1704672000&Signature=SNDqkr-Flo5Lof7UynYZdGgdO~IL-vzSRNbW1OCeeh9Pzu9hQGwHEnfnZJ0KhqGN81dvcsFz0vAXop90ZCnemnVTz4BhHArHKeQpAyGk9WFu-YYK1VpztlAEQDtOB36JDWfW7VSHsPmWH8qF4ld1TMuado1fkTzmRuKzDCkr5kjjUheVbTgm6~wrf0r65055tJHkh0K8MProGrZ4rtJHrp-a8wRugYB-AL8Y2bOl7KUS77G9E2AdkiwKwRppB4S5cbQjziV9GL4owxoLMihSwwYyg4N-iJEw4y61E~xITEtt9cN9QhwxwyN8edz5EZC015tEf~soTJmQhjgFDU20NQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "mostSell": 505
+    },
+    {
+      "_id": "9",
+      "name": "Spiced Mint",
+      "price": 29.99,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imgUrl": "https://s3-alpha-sig.figma.com/img/6744/d2d8/c81855b0aa1ec959b17a0c9dd084bf60?Expires=1704672000&Signature=TaKOuLe8VUs6VztFD-lieXfjT0w0vj-vz1lt-v3NjNo6OM0pu7c~ztnS3QjR2ZZHyTXk3IBJNEfoMNxT6SjiBUKCw2l4y6uKveFqmSft9jK-i2xgfCxOubPVei4m8b~7KwSlPpcHFoabFm4eZMtGp6Z9w50I9B~lvxxM3S1EaJpcwUwI1jMYrrBh64UzLOa826~qvjM0PI28XiYACUk47cmNwStnPvpNJC9yvetnMFk-FDRaLKIv7Rwfe0fEAWa1b3F7PcPDJiU7DxN3s744MSl~3VP1MyTH6GDD2jYhm6qxZtNvoq1mjVvauQy1G3Sq8HojB5Xri3Q9olB3Y9nfyg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "mostSell": 125
+    },
+    {
+      "_id": "10",
+      "name": "Sweet Straweberry",
+      "price": 19.99,
+      "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imgUrl": "https://s3-alpha-sig.figma.com/img/9753/f737/6f64c254aaac5b62795791f11064014d?Expires=1704672000&Signature=dvXyyf7J66pe6ZxKZAukKRUCyC5SrlI3ldnYMZcAd76a27u7sBXvH68bd4IgfZ~45Ha5z7AtXtX23KUZadPF2OVsOI~cF1v-iHdkmxjI~gNdeeTTpbM86YBy5qytOeGKLOsIaFxOqN~nZeCPO594VuEmDxvhDEZcZMrp9BSGrR1R5o6AwzFKMztba7YVrDlpr2q~ZM1T28wSlO~AKgar6pS-IMiv3Xu3kCjQbYt8RQHsjJgVawrqCndtF6JxRhM4-a9qYRrabmK~qiFyCDNRQODw4JeWI9agCunssHBMjYlQYd4EP0BREs6cQkmEiPtgE9AIB6w6ohn192X4Pkz~gA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "mostSell": 97
+    },
+    {
+      "_id": "11",
+      "name": "Cool Blueberries",
+      "price": 39.99,
+      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "imgUrl": "https://s3-alpha-sig.figma.com/img/a9f1/56fa/ef864f7b08ad88072acb18956ed8b152?Expires=1704672000&Signature=dsayThYNFQJk0IB4ehDrX8DkTFQEd9mzsmo~ucCzQ1mp1-OMUr7Zyd0lNDv8NsgCbKf9Gmqz-x12mRGiU3dpFg60lmV-UQh4Qax7UU5dvtO9UefDp3cSagUJuoasmHTPwtcl1~YjEfBr3PGzJXO5mYzMxloEFeE~QglT4yyqy~7rlgBbGxNjzLQXCqiEyxVhB7CafPhxi~e3OAThDM5Wsx4AYEaj3bhGECdYQST~~CyWHuIJ8Uvdisw07WUBiIsWZs6V6qGDrpteyA7~LZvAVbJsmmSy1mqxhgxAaoK39eOkRWVOPbYwY6a2~3GahYiWYZdzsyihXyrk1fjhhRvOEg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "mostSell": 100
+    },
+    {
+      "_id": "12",
+      "name": "Juicy Lemon",
+      "price": 49.99,
+      "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imgUrl": "https://s3-alpha-sig.figma.com/img/f906/4c9b/1c7681c466d6d9f41e702cf309dcc79f?Expires=1704672000&Signature=etM~k5WVS4NVInstxgQTCgCqzBVcj5O3k8xiV~k057D8Sst86thBAlH3DF~o8ZB8HIuBuGi8PPNUd89MqIO~XgC~PgiPtCOg8U5pog-vZw0Yd5-85IgI6er~sI6eLsx1QXgn2W6o7OO~iSsj1qIhdIrYV7UII2-VChJTmYUk9jdH~XbopftVNV5MOep~ZbZ3oeqxF~-9vL9uHhf1e0nqfDVIIkwDCsbu3gQSBYKgjTauULTBcA8Zin8MhdoiDGIuQv6H2CYLUuWsjuGkZpK0LWmO3IygsNQoaUmRveV8wdI1-feF1CzzWm3guyAxx5CkGS1nzEUQBy2MeZ~GjTz9sw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "mostSell": 240
+    },
+    {
+      "_id": "13",
+      "name": "Fresh Orange",
+      "price": 59.99,
+      "details": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl": "https://s3-alpha-sig.figma.com/img/dcb2/432b/ddac3e6f0b8ff6ff32c87932d21949f9?Expires=1704672000&Signature=jG4oA71RNuF21A33t9fkaRwby4JbZQ3vhgAtRY4wWZHOFzqOXKriKGjQJgzMLdBxCrjK90h1fAxQ2j9O5S69ctSe9gveGYH6krxtSqbOvX06AouGr-bADKjR8JUIdLl-UdkMrGLvtG~4FzRGrwfkkRRBOcl3zTK9vjCd6o0xfzmDutR-9gJCGSP-bAvR3SVaI6s31AXp27RBv39mU0jNYQ8jAYWzZZzIVQ7gUEPNOAufguUA3ZIefYKMAJGlTqTt3kZJ-5HxLDC11VeKDkkvY2j58HrZzvV7njvMX5bvbHO9kBUMEBPEut5e55A56-ka1AvL-IHG4CMz0614NkQsPg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "mostSell": 303
+    },
+    {
+      "_id": "14",
+      "name": "Fragrant Cinnamon",
+      "price": 79.99,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imgUrl": "https://s3-alpha-sig.figma.com/img/2ee8/44bd/8532ce3ba311fa81010d9d39ebae06b9?Expires=1704672000&Signature=hn2QiloskFY-7CLAnm2MvwOWIiY3wnzrzSHxfZsxWCYp9B-GQRZd3REhJS0o6~9qxWtgestgQ1NXMDfm-mu9mNlgW9QiOYquMEg2qATnkazy8Yx6qrkn9SvHYDmmFoamdNat3OhqjuHKLAgfmJIZf~V1HSrJ0lm4aLniI-y1Zh4CPyqewob4thKSj-rjgfmjACNNpHCKoLdbgv~D0qiQq61tG~0lic8-MzE1cSAWTeejOWWCVG1SmSmSVioj5Tq2RhWfc9uQBxnvtmGBZ~FU5vX-b-ZzsJegLCJ35L5JUCCUgy3x8XJY7JNyi0M~gDTnBQu~3FUtM7v6f78JxYOFzw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "mostSell": 109
+    },
+    {
+      "_id": "15",
+      "name": "Summer Cherries",
+      "price": 89.99,
+      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imgUrl": "https://s3-alpha-sig.figma.com/img/afcc/79bf/7c1ea9541e5f8e50eef300c9a2fe49d1?Expires=1704672000&Signature=gKIwXTfkTjXJFFZ2umDUWIq~FsnGSeUYPz2K7c0kFRst36Y~BKRxhMNFLEA8kZJv1Dgir3aJ5ArK4iqs7PkBTMTL3lpW~OkXu2BJoVLROkbyiaPMcJ4DnhBXeUh8KlzB2b7frj81x7x5WZJatOeWFgO72IXczYURsmcZWyWDrraaw4qMmcrjiBOwZGtiEVst~L-r03U7GVg6O2XaD7wxyVTXsGfGrzPLY-qFSeb5djbVXNHdEZO8-X9PLER0hT6g107k8NVyMibkOHMNqQeum6D4PjcEneMVgJrd8zI9myI8Em8ctRfO22bh8nl1ZD5-6ty8nooFMbAnhch3RgAQXg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "mostSell": 217
+    },
+    {
+      "_id": "16",
+      "name": "Clean Lavander",
+      "price": 99.99,
+      "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imgUrl": "https://s3-alpha-sig.figma.com/img/024e/de1e/13701879ed1c9befc9a6af6cb3d8613f?Expires=1704672000&Signature=SNDqkr-Flo5Lof7UynYZdGgdO~IL-vzSRNbW1OCeeh9Pzu9hQGwHEnfnZJ0KhqGN81dvcsFz0vAXop90ZCnemnVTz4BhHArHKeQpAyGk9WFu-YYK1VpztlAEQDtOB36JDWfW7VSHsPmWH8qF4ld1TMuado1fkTzmRuKzDCkr5kjjUheVbTgm6~wrf0r65055tJHkh0K8MProGrZ4rtJHrp-a8wRugYB-AL8Y2bOl7KUS77G9E2AdkiwKwRppB4S5cbQjziV9GL4owxoLMihSwwYyg4N-iJEw4y61E~xITEtt9cN9QhwxwyN8edz5EZC015tEf~soTJmQhjgFDU20NQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "mostSell": 505
     }
     
   ]
